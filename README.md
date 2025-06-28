@@ -32,7 +32,7 @@ Make sure you have **Node.js**, **Expo CLI**, and either **npm** or **yarn** ins
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/Wallet.git
+git clone https://github.com/mrdevrct/Wallet.git
 cd Wallet
 
 # Install dependencies
